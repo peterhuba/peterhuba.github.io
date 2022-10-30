@@ -18,7 +18,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 UseHugoToc: true
-draft: true
+draft: false
 cover:
     # image: "<image path/url>" # image path/url
     # alt: "<alt text>" # alt text
@@ -30,7 +30,5 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-
-### The problem
 
 When API Gateway ...
