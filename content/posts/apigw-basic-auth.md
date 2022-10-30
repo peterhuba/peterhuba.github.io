@@ -18,7 +18,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 UseHugoToc: true
-draft: false
+draft: true
 cover:
     # image: "<image path/url>" # image path/url
     # alt: "<alt text>" # alt text
