@@ -1,0 +1,9 @@
+[submodule "hubas-engineering-log/themes/PaperMod"]
+	path = hubas-engineering-log/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "hubas-engineering-log/hubas-engineering-log/themes/hugo-PaperMod"]
+	path = hubas-engineering-log/hubas-engineering-log/themes/hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/hugo-PaperMod"]
+	path = themes/hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
