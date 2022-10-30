@@ -2,7 +2,7 @@
 author: "Péter Huba"
 title: "Introduction"
 date: "2022-10-27"
-description: "Goals of this blog"
+description: "Welcome to Huba's Engineering Log"
 tags: ["Introduction"]
 showToc: false
 TocOpen: false
@@ -30,6 +30,10 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-### Welcome to Huba's Engineering Log
+The main goal of this blog is to serve as a place to collect noteworthy things that I encounter during my work as a
+software engineer. This may include topics ranging from software development, design, architecure and technologies
+ to practices that are good to have in an engineering team.
 
-In this blog, ...
+Despite the fact that I'm planning to publish posts mainly for myself to organize and track my knowledge and
+ experiences, I believe that some of them might be helpful for someone encountering challenges similar to those that
+ I've been facing.
