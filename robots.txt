@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://peterhuba.github.io/sitemap.xml
