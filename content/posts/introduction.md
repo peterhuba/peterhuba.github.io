@@ -1,7 +1,7 @@
 ---
 author: "Péter Huba"
 title: "Introduction"
-date: "2022-10-27"
+date: "2022-10-30"
 description: "Welcome to Huba's Engineering Log"
 tags: ["Introduction"]
 showToc: false
@@ -24,10 +24,10 @@ cover:
     # caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/peterhuba/peterhuba.github.io/edit/main"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+# editPost:
+#     URL: "https://github.com/peterhuba/peterhuba.github.io/edit/main"
+#     Text: "Suggest Changes" # edit text
+#     appendFilePath: true # to append file path to Edit link
 ---
 
 The main goal of this blog is to serve as a place to collect noteworthy things that I encounter during my work as a
