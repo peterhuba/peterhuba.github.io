@@ -18,6 +18,13 @@
         {{- block "main" . }}{{ end }}
     </main>
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+
+    <!-- Panelbear -->
+    <script async src="https://cdn.panelbear.com/analytics.js?site=BenpqohleSb"></script>
+    <script>
+        window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
+        panelbear('config', { site: 'BenpqohleSb' });
+    </script>
 </body>
 
 </html>
