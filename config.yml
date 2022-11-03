@@ -79,7 +79,7 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Hi there \U0001F44B"
+        Title: "Hello \U0001F44B"
         Content: "Personal blog to record lessons learned, noteworthy things encountered by a software engineer."
 
 
