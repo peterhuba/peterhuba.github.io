@@ -46,7 +46,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Personal blog to record lessons learned, noteworthy experiences encountered by a software engineer"
+    description: "Personal blog to record lessons learned, noteworthy experiences encountered as a software engineer"
     author: Péter Huba
     keywords: [Blog, Portfolio, PaperMod, Software, Engineering]
     defaultTheme: auto
@@ -67,7 +67,7 @@ params:
     profileMode:
         enabled: false
         title: "A Software Engineer's Log"
-        subtitle: "Personal blog to record lessons learned, noteworthy experiences of a software engineer"
+        subtitle: "Personal blog to record lessons learned, noteworthy experiences as a software engineer"
         imageUrl: "#"
         imageTitle: my image
         # imageWidth: 120
@@ -80,7 +80,7 @@ params:
 
     homeInfoParams:
         Title: "Hello \U0001F44B"
-        Content: "Personal blog to record lessons learned, noteworthy things encountered by a software engineer."
+        Content: "Personal blog to record lessons learned, noteworthy things encountered as a software engineer."
 
 
     socialIcons:

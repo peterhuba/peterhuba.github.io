@@ -5,7 +5,7 @@ date: "2022-11-02"
 summary: "The unexpected difficulties of exposing an endpoint with basic authentication via AWS API Gateway, to receive notifications from SNS"
 description: "The unexpected difficulties of exposing an endpoint with basic authentication via AWS API Gateway, to receive notifications from SNS"
 tags: ["AWS", "API Gateway", "SNS"]
-showToc: false
+showToc: true
 TocOpen: false
 hidemeta: false
 comments: true
