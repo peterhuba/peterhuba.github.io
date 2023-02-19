@@ -19,12 +19,13 @@
     </main>
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
 
-    <!-- Panelbear -->
-    <script async src="https://cdn.panelbear.com/analytics.js?site=BenpqohleSb"></script>
+    <!-- Cronitor RUM -->
+    <script async src="https://rum.cronitor.io/script.js"></script>
     <script>
-        window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
-        panelbear('config', { site: 'BenpqohleSb' });
+        window.cronitor = window.cronitor || function() { (window.cronitor.q = window.cronitor.q || []).push(arguments); };
+        cronitor('config', { clientKey: 'b7f7cdd40564ca273a71ec5b31ef43b8' });
     </script>
+
 </body>
 
 </html>
